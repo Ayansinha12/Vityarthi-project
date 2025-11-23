@@ -70,7 +70,7 @@ Handles:
 
 ⦁	 Empty inputs
 
-⦁	Bill GenerationPrints each ordered item along with its price.
+⦁	Bill Generation prints each ordered item along with its price.
 
 ⦁	Automatic Total Calculation Provides the total number of all items chosen.
 
