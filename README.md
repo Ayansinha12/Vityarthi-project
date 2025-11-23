@@ -14,24 +14,31 @@ This project will be ideally suited for beginners learning Python basics or as a
 Features
 
  Menu Display
+
 It displays all the available food items with their prices.
 
  Order Selection
+
 It will continue to prompt the user to select menu items until the user types "done".
 
  Input Validation
+
 Prevents invalid entries for the wrong item number or non-numeric values.
 
  Bill Generation
+
 Prints a neat final bill with individual items and prices.
 
 	Total Calculation
+
 Automatically sums up the total order amount.
 
  Modular Code
+
 Functions are maintainable and can be extended with ease.
 
 Technologies / Tools Used
+
 • Python 3.x
 
 • Python's built-in modules only, no external libraries.
