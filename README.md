@@ -67,6 +67,7 @@ python panache_food_order.py
 A console that launches the food ordering system Panache
 
 Instructions for Testing
+
 Try testing the program with the following scenarios to make sure it works as it should:
 
 1. View Menu
