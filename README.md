@@ -57,6 +57,7 @@ python -- Version
 Save your Python code into a file named:
 
 panache_food_order.py
+
 3. Open a Terminal / Command Prompt
 Navigate to the folder where the file is saved:
 cd path/to/your/project
