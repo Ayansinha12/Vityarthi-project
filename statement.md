@@ -23,9 +23,13 @@ Scope of the Project
 The scope of this project includes:
 
 ⦁	Showing a fixed menu of food items with their numbers, names, and prices.
+
 ⦁	Allowing users to choose multiple items by console input.
+
 ⦁	Validating user inputs to avoid errors.
+
 ⦁	Storing orders and calculating the total bill.
+
 ⦁	Show a nicely formatted final order summary.
 
 * Running the project entirely from a terminal/console without additional libraries.
@@ -33,8 +37,11 @@ The scope of this project includes:
 * Online ordering capability
 
 Target Users
+
 This project is designed for:
+
 • For beginners learning loops, functions, and dictionaries
+
 ⦁	Students needing a mini-project for coursework
 
 ⦁	Small food businesses looking for a simple prototype to take orders
@@ -64,5 +71,7 @@ Handles:
 ⦁	 Empty inputs
 
 ⦁	Bill GenerationPrints each ordered item along with its price.
+
 ⦁	Automatic Total Calculation Provides the total number of all items chosen.
+
 ⦁	Modular Code Structure Uses functions for readability and maintainability.
